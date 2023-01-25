@@ -1,0 +1,42 @@
+body{
+    background-color: IndianRed;
+}
+
+header{
+    background-color: AntiqueWhite;
+    padding: 8px;
+    border-radius: 14px;
+}
+
+header a {
+    text-decoration: none;
+    margin: 23px;
+    padding: 5px;
+    color: black;
+}
+
+h1, h2{
+    text-align: center;
+    border: 3px solid AntiqueWhite ;
+    border-radius: 10px;
+}
+
+img{
+    border: 3px solid AntiqueWhite ;
+    border-radius: 15px;
+}
+
+.chessgame{
+    width: 775px;
+    height: 450px;
+}
+
+footer{
+    background-color: FireBrick;
+    border-radius: 15px;
+}
+
+footer p{
+    background: Salmon;
+    border-radius: 15px;
+}
